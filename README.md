@@ -1,4 +1,4 @@
-you can view the user inteface and functionality of this app on                                                                                
+you can view the user interface and functionality of this app on                                                                                
 https://willyserge.github.io/image-search-app-React
 
 
